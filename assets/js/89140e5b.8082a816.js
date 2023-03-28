@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkarea_27_development=self.webpackChunkarea_27_development||[]).push([[704],{3372:e=>{e.exports=JSON.parse('{"label":"development update","permalink":"/blog/tags/development-update","allTagsPath":"/blog/tags","count":1}')}}]);

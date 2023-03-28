@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkarea_27_development=self.webpackChunkarea_27_development||[]).push([[996],{7206:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/development-update","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
