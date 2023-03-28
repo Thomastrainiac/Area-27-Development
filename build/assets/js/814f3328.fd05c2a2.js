@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkarea_27_development=self.webpackChunkarea_27_development||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/area-27-development/blog/welcome"}]}')}}]);
